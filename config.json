@@ -1,0 +1,11 @@
+{
+  
+ "applicationid":"960439798416416850",
+ "name":"spotify",
+ "details":"happier",
+ "state":"Olivia Rodrigo",
+ "imagename": "happier",
+  "spotify":"spotify",
+  "token" : "Warning! Dont Put Token Here! Aditya Is Not Responsible if you want to put here!",
+"note": "Change Application Id, Dont Change Name, Change Details State and imagename, do not change Spotify"
+}
